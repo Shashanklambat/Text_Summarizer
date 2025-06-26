@@ -186,4 +186,4 @@ For questions or feedback, reach out via:
 
 GitHub Issues
 
-Email: praful101nayak@gmail.com
+Email: shashanklambat1@gmail.com
